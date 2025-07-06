@@ -79,6 +79,6 @@ Business Intelligence & Data Analytics Enthusiast For DSA Data Analysis Final Pr
 
 ## 📌 Tags
 
-`SQL` `Data Analytics` `Inventory Management` `Business Intelligence`  
+`DSA` `SQL` `Data Analytics` `Inventory Management` `Business Intelligence`  
 `Customer Segmentation` `Retail Optimization` `Shipping Cost Analysis` `Power BI`
 
