@@ -73,6 +73,7 @@ SQL-based Business Intelligence analysis for KMS
 
 **Oluwaseyi Israel**  
 Business Intelligence & Data Analytics Enthusiast For DSA Data Analysis Final Project 
+🔗 https://linkedin.com/in/oluwaseyi-israel/
 🔗 https://github.com/oluwaseyiisrael1/Kultra-Mega-Stores-Inventory
 
 ---
